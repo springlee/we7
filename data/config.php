@@ -4,8 +4,8 @@ defined('IN_IA') or exit('Access Denied');
 $config = array();
 
 $config['db']['master']['host'] = '127.0.0.1';
-$config['db']['master']['username'] = 'springlee_xiao6';
-$config['db']['master']['password'] = 'ZfAwk4Xfde';
+$config['db']['master']['username'] = 'root';
+$config['db']['master']['password'] = '123456';
 $config['db']['master']['port'] = '3306';
 $config['db']['master']['database'] = 'springlee_xiao6';
 $config['db']['master']['charset'] = 'utf8';
